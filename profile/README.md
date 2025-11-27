@@ -64,15 +64,15 @@
 
 ## 핵심 기능
 
-<img width="450" height="253" alt="image" src="https://github.com/user-attachments/assets/037a2d6c-6547-4e80-be6d-ba1d23c720c4" />
+<img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/037a2d6c-6547-4e80-be6d-ba1d23c720c4" />
 
-<img width="450" height="253" alt="image" src="https://github.com/user-attachments/assets/184a7618-a275-4d88-b151-950400834a6c" />
+<img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/184a7618-a275-4d88-b151-950400834a6c" />
 
-<img width="450" height="253" alt="image" src="https://github.com/user-attachments/assets/4576d096-6507-44ca-85d7-c003c5d55afd" />
+<img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/4576d096-6507-44ca-85d7-c003c5d55afd" />
 
-<img width="450" height="253" alt="image" src="https://github.com/user-attachments/assets/27fabdd9-2fa5-4a7f-a6fc-19991677351e" />
+<img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/27fabdd9-2fa5-4a7f-a6fc-19991677351e" />
 
-<img width="450" height="253" alt="image" src="https://github.com/user-attachments/assets/eff068f2-f8b4-4773-9f04-02865aa19944" />
+<img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/eff068f2-f8b4-4773-9f04-02865aa19944" />
 
 
 <br><br>
